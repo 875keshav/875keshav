@@ -1,42 +1,39 @@
-# Hi there 👋
-
-Welcome to my GitHub profile! I'm Keshav Kumar Agrawal, a passionate Design and Verification Engineer .
+# Hello, I'm Keshav Kumar Agrawal 👋
 
 ## About Me
 
-/##- 🔭 I’m currently working on [Your Current Project]
-##- 🌱 I’m currently learning [What You're Learning]
-##- 👯 I’m looking to collaborate on [Your Collaboration Interests]
-##- 💬 Ask me about [Your Expertise]
-##- 📫 How to reach me: [Your Email]
-##- 😄 Pronouns: [Your Pronouns]
-##- ⚡ Fun fact: [A Fun Fact About You]
+I am a passionate RTL Design Engineer and VLSI Design Verification Engineer with a strong foundation in digital design and verification. Currently, I am pursuing my B. Tech.  in Electronics and Communication Engineering at IIIT UNA. My expertise lies in creating efficient RTL designs, verifying complex digital systems, and optimizing VLSI projects.
 
-## Skills
+## 🔧 Skills
+- **Languages**: Verilog, SystemVerilog, VHDL, C,  Python
+- **Verification Frameworks**:  Assertion-Based Verification, Functional Coverage
+- **EDA Tools**: Xilinx ISE, Xilinx Vivado, EDA Playground, Cadence Virtuoso
+- **Hardware Platforms**: FPGAs (Xilinx, Altera)
+- **Courses**: Digital Electronics, EDC, Analog Electronics, VLSI Design, Microprocessor & Microcontroller, Computer Organization & Architecture
 
-- **Languages**: [List of Programming Languages]
-- **Frameworks**: [List of Frameworks]
-- **Tools**: [List of Tools]
+## 🏆 Key Achievements
 
-## Projects
+- **Project**: Developed a [specific module/project], achieving [specific result, e.g., 30% improvement in performance].
+- **Verification**: Implemented comprehensive verification environments that resulted in over 95% functional coverage.
+- **Design**: Successfully designed and taped out [specific chip/project] with zero critical bugs.
 
-Here are a few projects I've been working on:
 
-1. [Project 1 Name](Link to Project 1 Repository)
-   - Description of Project 1
-2. [Project 2 Name](Link to Project 2 Repository)
-   - Description of Project 2
-3. [Project 3 Name](Link to Project 3 Repository)
-   - Description of Project 3
+## 📅 Current Status
 
-## Connect with Me
+- **Student at IIIT UNA**: Currently working on Design and Implementation of pipelined RISC-V processor.
 
-- [LinkedIn](Link to LinkedIn Profile)
-- [Twitter](Link to Twitter Profile)
-- [Personal Website](Link to Personal Website)
+## 🌟 Goals
 
-## Contribution Stats
+- To advance my skills in VLSI design and verification.
+- To contribute to cutting-edge projects in digital design.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+## 📫 Contact
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+- **Email**: agrawalkeshav20122019@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/keshav-kumar-agrawal-1a791523a/
+- **GitHub**: https://github.com/875keshav
+
+## 🌐 Let's Connect!
+
+Feel free to reach out if you’re interested in collaborating on projects or have any questions about my work.
+
