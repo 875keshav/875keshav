@@ -11,12 +11,6 @@ I am a passionate RTL Design Engineer and VLSI Design Verification Engineer with
 - **Hardware Platforms**: FPGAs (Xilinx, Altera)
 - **Courses**: Digital Electronics, EDC, Analog Electronics, VLSI Design, Microprocessor & Microcontroller, Computer Organization & Architecture
 
-## 🏆 Key Achievements
-
-- **Project**: Developed a [specific module/project], achieving [specific result, e.g., 30% improvement in performance].
-- **Verification**: Implemented comprehensive verification environments that resulted in over 95% functional coverage.
-- **Design**: Successfully designed and taped out [specific chip/project] with zero critical bugs.
-
 
 ## 📅 Current Status
 
